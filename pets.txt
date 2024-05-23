@@ -2,3 +2,5 @@
 2.Cats
 3.Fishes
 4.Birds
+5.lions
+6.cheetahs
